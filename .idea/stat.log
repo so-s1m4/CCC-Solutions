@@ -24,3 +24,5 @@
 {"ts":1787304969843,"action":"FILE_OPENED","file":"/CCC-Game-Base/script.py","tags":{"FILE_LINE_OF_CODE":"7"}}
 {"ts":1787304983179,"action":"IDE_DEACTIVATED"}
 {"ts":1787304987476,"action":"IDE_ACTIVATED"}
+{"ts":1787305017189,"action":"IDE_DEACTIVATED"}
+{"ts":1787305024499,"action":"IDE_ACTIVATED"}
