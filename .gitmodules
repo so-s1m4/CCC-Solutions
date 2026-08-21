@@ -1,0 +1,3 @@
+[submodule "CCC-Game-Base"]
+	path = CCC-Game-Base
+	url = git@github.com:so-s1m4/CCC-Game-Base.git
