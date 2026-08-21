@@ -26,3 +26,9 @@
 {"ts":1787304987476,"action":"IDE_ACTIVATED"}
 {"ts":1787305017189,"action":"IDE_DEACTIVATED"}
 {"ts":1787305024499,"action":"IDE_ACTIVATED"}
+{"ts":1787305032549,"action":"FILE_CLOSED","file":"/CCC-Game-Base/script.py","tags":{"FILE_LINE_OF_CODE":"10"}}
+{"ts":1787305035682,"action":"FILE_OPENED","file":"/CCC-Game-Base/script.py","tags":{"FILE_LINE_OF_CODE":"10"}}
+{"ts":1787305058340,"action":"IDE_DEACTIVATED"}
+{"ts":1787305061487,"action":"IDE_ACTIVATED"}
+{"ts":1787305065234,"action":"FILE_CLOSED","file":"/CCC-Game-Base/script.py","tags":{"FILE_LINE_OF_CODE":"10"}}
+{"ts":1787305065945,"action":"IDE_DEACTIVATED"}
